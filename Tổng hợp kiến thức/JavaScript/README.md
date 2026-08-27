@@ -6,6 +6,8 @@ Biến là một định danh để lưu trữ giá trị trong bộ nhớ. JS h
 *   Dùng `const` mặc định cho 95% trường hợp để code an toàn, khó bị lỗi ghi đè.
 *   Dùng `let` khi chắc chắn biến đó sẽ thay đổi (ví dụ: biến đếm trong vòng lặp, trạng thái thay đổi).
 <img width="942" height="122" alt="image" src="https://github.com/user-attachments/assets/56ce8162-2044-49dc-9238-eae7311fd317" />
+
+
 ## 02. Data Types - Kiểu dữ liệu
 
 **📝 Giới thiệu & Lý thuyết cơ bản:**
